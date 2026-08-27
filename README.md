@@ -24,13 +24,16 @@ This analysis focuses on the following questions:
 - Which currently active customers show the strongest churn-risk indicators?
 
 ## Tech Stack
+
 - MySQL -- data cleaning, transformation, exploratory analysis, KPI calculations, and analytical views
 - Power BI -- data modeling, DAX measures, interactive dashboards, and visualization
 
 ## Dataset
+
 The project uses two data sets "subscriptions" and "monthly_revenue"
 
 ## Subcriptions
+
 Customer-level subscription data containing approximately 600 cstomers and fields such as:
 - Subscription plan
 - Billing cycle
@@ -48,6 +51,7 @@ Customer-level subscription data containing approximately 600 cstomers and field
 - Upgrade status
 
 ## Monthly Revenue
+
 Monthly company-level data covering January 2022 through December 2025 including:
 - Active customers
 - New customers
@@ -58,6 +62,7 @@ Monthly company-level data covering January 2022 through December 2025 including
 - Customer acquisition cost
 
 ## Data Preparation
+
 The raw CSV files were imported into MySQL and copied into staging tables to preserve the original data.
 
 Data preparation included:
@@ -73,6 +78,7 @@ Data preparation included:
 
 
 ## Key Findings
+
 ### Churn Trend
 The overall observed customer churn rate was 52.17%, with 313 of the 600 customers in the dataset having churned.
 However, monthly churn improved considerably over time:
