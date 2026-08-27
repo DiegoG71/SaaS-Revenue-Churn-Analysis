@@ -106,3 +106,31 @@ The relationship remained visible within "Starter", "Professional", and "Busines
 
 ## Customer Segments
 The 500+ employee segment had the highest observed company-size churn rate at 63.16%, although this group also had the smallest number of customers.
+
+By acquisitional channel:
+-  Referral -- 61.29%
+-  Partner -- 58.00%
+-  Social Media -- 55.77%
+-  Paid Ads -- 53.04%
+-  Organic Search -- 43.79%
+-  Direct Sales -- 39.29%
+
+"Direct Sales" customers had the lowest observed churn rate.
+
+## Top Churn Reasons
+
+The three most common churn reasons were:
+
+1. Budget Cuts -- 16.93%
+2. Price Too High -- 16.29%
+3. Company Closed -- 15.34%
+
+Together, these reasons represented 48.56% of all churn.
+
+"Budget Cuts" and "Price Too High" alone represented 33.22%, highlighting pricing and budget pressure as important retention considerations.
+
+Churn drivers also differed by plan. "Starter" and "Professional" customers showed stronger price and budget sensitivity, while "Missing Features" was the most common churn reason among "Business" customers.
+
+## Revenue Trends
+
+Average
