@@ -77,7 +77,6 @@ Data preparation included:
 The overall observed customer churn rate was 52.17%, with 313 of the 600 customers in the dataset having churned.
 However, monthly churn improved considerably over time:
 
-
 | Year | Average Monthly Churn Rate
 | -------- | --------
 | 2022   | 6.81%
@@ -85,3 +84,25 @@ However, monthly churn improved considerably over time:
 | 2024   | 3.56%
 | 2025   | 3.60%
 
+Average monthly churn declined substantially between 2022 and 2024, although the improvement plateaued in 2025.
+
+## Churn by Subscription Plan
+
+| Plan | Churn Rate |
+| -------- | -------- |
+| Starter | 70.51% |
+| Professional | 47.98% |
+| Business | 41.25% |
+| Enterprise | 22.00% |
+
+The "Starter" plan had the highest churn rate, while "Enterprise" customers demonstrated substantially stronger retention.
+
+## Billing Cycle and Retention
+Monthly customers had significantly higher observed chunr than annual customers
+- Monthly billing: 60.51%
+- Annual billing 40.32%
+
+The relationship remained visible within "Starter", "Professional", and "Business" plans, suggesting that annual subscription are associated with stronger retention.
+
+## Customer Segments
+The 500+ employee segment had the highest observed company-size churn rate at 63.16%, although this group also had the smallest number of customers.
