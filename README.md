@@ -245,7 +245,7 @@ Provides deeper segmentation by:
 - NPS
 - Customer risk categories
 
-### Limitations
+## Limitations
 
 Several limitations should be considered when interpreting this analysis, such as:
 - CLV is revenue-based because gross margin and customer servicing costs were not available
