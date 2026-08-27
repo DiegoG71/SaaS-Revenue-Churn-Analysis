@@ -92,7 +92,7 @@ However, monthly churn improved considerably over time:
 
 Average monthly churn declined substantially between 2022 and 2024, although the improvement plateaued in 2025.
 
-## Churn by Subscription Plan
+### Churn by Subscription Plan
 
 | Plan | Churn Rate |
 | -------- | -------- |
@@ -103,14 +103,14 @@ Average monthly churn declined substantially between 2022 and 2024, although the
 
 The "Starter" plan had the highest churn rate, while "Enterprise" customers demonstrated substantially stronger retention.
 
-## Billing Cycle and Retention
+### Billing Cycle and Retention
 Monthly customers had significantly higher observed chunr than annual customers
 - Monthly billing: 60.51%
 - Annual billing 40.32%
 
 The relationship remained visible within "Starter", "Professional", and "Business" plans, suggesting that annual subscription are associated with stronger retention.
 
-## Customer Segments
+### Customer Segments
 The 500+ employee segment had the highest observed company-size churn rate at 63.16%, although this group also had the smallest number of customers.
 
 By acquisitional channel:
@@ -123,7 +123,7 @@ By acquisitional channel:
 
 "Direct Sales" customers had the lowest observed churn rate.
 
-## Top Churn Reasons
+### Top Churn Reasons
 
 The three most common churn reasons were:
 
@@ -137,6 +137,17 @@ Together, these reasons represented 48.56% of all churn.
 
 Churn drivers also differed by plan. "Starter" and "Professional" customers showed stronger price and budget sensitivity, while "Missing Features" was the most common churn reason among "Business" customers.
 
-## Revenue Trends
+### Revenue Trends
 
-Average
+Average monthly MRR increased significantly during the four-year period:
+
+| Year | Average Monthly MRR | Average Revenue per Customer |
+| -------- | -------- | -------- |
+| 2022 | $46,081 | $908.91 |
+| 2023 | $147,849 | $1,019.61 |
+| 2024 | $222,196 | $1,039.89 |
+| 2025 | $283,427 | $1,072.47 |
+
+Revenue growth was driven by both customer growth and increasing revenue per customer/
+
+Several months experienced MRR contractions, with the largest occuring in October 2025. In this month, MRR declined approximately $10,735 even though new customers exceeded churn customers
