@@ -203,4 +203,53 @@ Among currently active customers, 68 customers met both conditions and were inde
 
 ## Business Recommendations
 
-Based on the analysis perfomed, CloudTask Pro should consider:
+Based on the analysis performed, CloudTask Pro should consider the following:
+- Increasing conversion from monthly to annual billing, particularly for "Starter", "Professional", and "Business" customers
+- Investigating pricing and value perception among "Starter" and "Professional" customers
+- Improving product capabilities and customer support for "Business" customers
+- Prioritizing retention outreach toward active customers with both low feature usage and low NPS
+- Reviewing acquisition strategies for channels with higher churn, particularly "Referal" and "Partner" customers
+- Monitoring both customer counts and revenue per customer when evaluating MRR performance
+
+### Dashboard
+
+The Power BI report contains three pages:
+
+## SaaS Revenue and Churn
+
+Provides a high-level view of:
+- Current MRR
+- Active customers
+- Overall churn
+- High-risk active customers
+- MRR trends
+- Monthly churn trends
+- Churn by subcription plan
+- Top churn reaons
+
+## Churn & Retention
+
+Provides deeper segmentation by:
+- Billing cycle
+- Company size
+- Acquisition Channel
+- Churn reason
+- Subscription plan
+
+## Unit Economics & Customer Risk
+- Customer Lifetime Value
+- Customer Acquisition Cost
+- CLV ratio
+- Customer lifespan
+- Feature usage
+- NPS
+- Customer risk categories
+
+### Limitations
+
+Several limitations should be considered when interpreting this analysis, such as:
+- CLV is revenue-based because gross margin and customer servicing costs were not available
+- Average customer lifespan is based on customers with completed churn dates
+- CAC is available at the company level rather than by subscription plan, so the same weighted average CAC is used when comparing plan-level CLV ratios
+- Churn relationships are observational and should not be interpreted as proof of causations
+- The feature-usage and NPS risk thresholds were identified from the same dataset used to evaluate churn and would require validation on new data before being used as a predictive model
