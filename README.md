@@ -211,11 +211,11 @@ Based on the analysis performed, CloudTask Pro should consider the following:
 - Reviewing acquisition strategies for channels with higher churn, particularly "Referal" and "Partner" customers
 - Monitoring both customer counts and revenue per customer when evaluating MRR performance
 
-### Dashboard
+## Dashboard
 
 The Power BI report contains three pages:
 
-## SaaS Revenue and Churn
+### SaaS Revenue and Churn
 
 Provides a high-level view of:
 - Current MRR
@@ -227,7 +227,7 @@ Provides a high-level view of:
 - Churn by subcription plan
 - Top churn reaons
 
-## Churn & Retention
+### Churn & Retention
 
 Provides deeper segmentation by:
 - Billing cycle
@@ -236,7 +236,7 @@ Provides deeper segmentation by:
 - Churn reason
 - Subscription plan
 
-## Unit Economics & Customer Risk
+### Unit Economics & Customer Risk
 - Customer Lifetime Value
 - Customer Acquisition Cost
 - CLV ratio
