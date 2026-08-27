@@ -150,4 +150,57 @@ Average monthly MRR increased significantly during the four-year period:
 
 Revenue growth was driven by both customer growth and increasing revenue per customer/
 
-Several months experienced MRR contractions, with the largest occuring in October 2025. In this month, MRR declined approximately $10,735 even though new customers exceeded churn customers
+Several months experienced MRR contractions, with the largest occuring in October 2025. In this month, MRR declined approximately $10,735 even though new customers exceeded churn customers.
+
+During the same month, average revenue per customer declined approximately $56, suggesting that customer mix and revenue per customer can affect MRR even when customer counts remain positive.
+
+## Unit Economics
+
+Customer Lifetime Value was estimated using:
+
+Estimated CLV = Average Monthly Revenue x Average Completed Customer Lifespan
+
+| Plan | Avg. MRR | Avg. Lifespan | Estimated CLV | CLV:CAC |
+| -------- | -------- | -------- | -------- | -------- |
+| Enterprise | $2,984.99 | 14.36 months | $42,875.25 | 212.04x |
+| Business | $1,303.64 | 14.18 months | $18,487.91 | 91.43x |
+| Professional | $497.04 | 10.24 months | $5,090.20 | 25.17x |
+| Starter | $215.54 | 6.22 months | $1,339.75 | 6.63x |
+
+The weighted average Customer Acquisition Cost was approximately $202.20
+
+"Enterprise" customers demonstrated the strongest estimated unit economics due to both higher monthly revenue and longer customers lifetimes. "Starter" customers had the lowest estimated CLV and shortest average completed lifespan. 
+
+### Customer Risk Analysis
+
+Customer engagement showed a strong relationship with churn.
+
+### Feature Usage
+
+Average feature usage:
+- Churned customers: 27.45%
+- Retained customers: 55.02%
+
+Customers below 50% feature usage experienced considerable higher churn than customers above that level.
+
+### NPS
+
+Average NPS:
+- Customer customers: 3.04
+- Retained customers: 5.81
+
+Customers with NPS scores of 6 or lower showed substantially greater churn than customers with higher scores.
+
+### High-Risk Customer Definition
+
+A customer was classified as high risk when both the following conditions were presents:
+- Feature usage below 50%
+- NPS score of 6 or lower
+
+Customers who met both conditions historically had a churn rate of about 82%.
+
+Among currently active customers, 68 customers met both conditions and were indentified as the highest-priority retention segment.
+
+## Business Recommendations
+
+Based on the analysis perfomed, CloudTask Pro should consider:
