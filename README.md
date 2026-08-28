@@ -94,7 +94,7 @@ Average monthly churn declined substantially between 2022 and 2024, although the
 
 ### Churn by Subscription Plan
 
-| Plan | Churn Rate |
+| Plan | Churn Rate 
 | -------- | -------- |
 | Starter | 70.51% |
 | Professional | 47.98% |
