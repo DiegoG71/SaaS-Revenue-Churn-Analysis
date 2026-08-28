@@ -34,7 +34,7 @@ The project uses two data sets "subscriptions" and "monthly_revenue"
 
 ## Subcriptions
 
-Customer-level subscription data containing approximately 600 cstomers and fields such as:
+Customer-level subscription data containing approximately 600 customers and fields such as:
 - Subscription plan
 - Billing cycle
 - Company size
