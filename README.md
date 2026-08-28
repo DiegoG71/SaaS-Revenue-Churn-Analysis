@@ -83,7 +83,7 @@ Data preparation included:
 The overall observed customer churn rate was 52.17%, with 313 of the 600 customers in the dataset having churned.
 However, monthly churn improved considerably over time:
 
-| Year | Average Monthly Churn Rate
+| Year | Average Monthly Churn Rate |
 | -------- | --------
 | 2022   | 6.81%
 | 2023   | 4.12%
@@ -94,7 +94,7 @@ Average monthly churn declined substantially between 2022 and 2024, although the
 
 ### Churn by Subscription Plan
 
-| Plan | Churn Rate 
+| Plan | Churn Rate |
 | -------- | -------- |
 | Starter | 70.51% |
 | Professional | 47.98% |
