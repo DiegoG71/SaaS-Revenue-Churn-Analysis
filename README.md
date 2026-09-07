@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-CloudTask Pro is a fictional B2B SaaS company that provides project management software. The company grew from 0 to 600 customers between 2022 and 2025, but leadership becane concerned about customer churn despite continued revenue growth.
+CloudTask Pro is a fictional B2B SaaS company that provides project management software. The company grew from 0 to 600 customers between 2022 and 2025, but leadership became concerned about customer churn despite continued revenue growth.
 
 This project analyzes customer subscriptions, monthly recurring revenue (MRR), churn behavior, unit economics, and customer engagement to identify the company's highest-risk customer segments and opportunities for improving retention and revenue growth.
 
