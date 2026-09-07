@@ -6,7 +6,7 @@ CloudTask Pro is a fictional B2B SaaS company that provides project management s
 
 This project analyzes customer subscriptions, monthly recurring revenue (MRR), churn behavior, unit economics, and customer engagement to identify the company's highest-risk customer segments and opportunities for improving retention and revenue growth.
 
-The analysis was completed using MySQL for data cleaning, preperation, and anlysis. Power BI was used for data visualization and dashboard development.
+The analysis was completed using MySQL for data cleaning, preparation, and analysis. Power BI was used for data visualization and dashboard development.
 
 ## Business Questions
 
